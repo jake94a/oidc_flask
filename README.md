@@ -1,13 +1,6 @@
 # google-client-app
+
 Flask, Flask-Login, Login with Google, App setup as Google Client
-
-Installation with Pipenv:
-
-```
-pipenv install
-```
-
-Installation without Pipenv:
 
 ```
 pip install -r requirements.txt
